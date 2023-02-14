@@ -1,0 +1,11 @@
+class Task:
+    def #{funcName}(#{args}):
+        #{funcBody}
+        #{funcReturn}
+
+
+def main():
+    Task().#{funcName}()
+
+if __name__ == '__main__':
+    main()
